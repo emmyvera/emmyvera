@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmyvera" alt="emmyvera" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React / React Native**
 
-- 💬 Ask me about **AI, ML, Flask, Python**
+- 💬 Ask me about **Backend, AI, ML, Go, Python**
 
-- 📫 How to reach me **emmyvera@gmail.com**
+- 📫 How to reach me **emmyvera01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
